@@ -51,11 +51,3 @@ To get the most out of these notes, I recommend the following approach:
 1. **Start with the MIT 18.06 section**: This will give you a solid foundation in linear algebra.
 2. **Watch 3Blue1Brown's series**: Use the notes in the "Essence of Linear Algebra" section to reinforce and visualize the concepts.
 3. **Refer to the Linear Algebra Course section**: Use these notes to gain additional insights and perspectives from my own lectures.
-
-## Contributing
-
-If you would like to contribute to this repository, please feel free to submit a pull request. Contributions that improve the clarity, accuracy, or completeness of the notes are always welcome.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
